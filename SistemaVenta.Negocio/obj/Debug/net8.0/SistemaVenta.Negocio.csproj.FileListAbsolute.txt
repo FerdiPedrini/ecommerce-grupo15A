@@ -15,3 +15,21 @@ C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVen
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.csproj.AssemblyReference.cache
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaV.1C5B61C7.Up2Date
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Negocio.deps.json
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Negocio.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Negocio.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.AssemblyInfo.cs
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.sourcelink.json
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaV.1C5B61C7.Up2Date
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\refint\SistemaVenta.Negocio.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\SistemaVenta.Negocio.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Negocio\obj\Debug\net8.0\ref\SistemaVenta.Negocio.dll

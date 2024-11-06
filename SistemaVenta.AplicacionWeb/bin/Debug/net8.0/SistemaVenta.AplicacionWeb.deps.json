@@ -547,10 +547,7 @@
           "SistemaVenta.Entity": "1.0.0"
         },
         "runtime": {
-          "SistemaVenta.DAL.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "SistemaVenta.DAL.dll": {}
         }
       },
       "SistemaVenta.Entity/1.0.0": {
@@ -558,10 +555,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
-          "SistemaVenta.Entity.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "SistemaVenta.Entity.dll": {}
         }
       },
       "SistemaVenta.IOC/1.0.0": {
@@ -570,10 +564,7 @@
           "SistemaVenta.Negocio": "1.0.0"
         },
         "runtime": {
-          "SistemaVenta.IOC.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "SistemaVenta.IOC.dll": {}
         }
       },
       "SistemaVenta.Negocio/1.0.0": {
@@ -582,10 +573,7 @@
           "SistemaVenta.Entity": "1.0.0"
         },
         "runtime": {
-          "SistemaVenta.Negocio.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "SistemaVenta.Negocio.dll": {}
         }
       }
     }

@@ -12,3 +12,18 @@ C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVen
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
 C:\Users\windows\Desktop\TP Final Sistema Ventas\TpFinalSistemaVentas\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.deps.json
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.sourcelink.json
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\refint\SistemaVenta.Entity.dll
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Nico\Downloads\AspNetProyectoFinalPrimerTrabajoConAgus\ecommerce-grupo15A\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll
